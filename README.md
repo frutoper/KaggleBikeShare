@@ -1,9 +1,9 @@
 # KaggleBikeShare
 Code to Create GBM model. Top 5% Score.
 
-<a href="https://www.kaggle.com/c/bike-sharing-demand" rel="some text">![alt tag](https://github.com/frutoper/KaggleBikeShare/blob/master/bikes.png)
+<a href="https://www.kaggle.com/c/bike-sharing-demand" rel="some text">![alt tag](https://github.com/frutoper/KaggleBikeShare/blob/master/bikes.png)</a>
 
-Kaggle hosts online data science competitions.  This competition asks participants to forecast city bikeshare usage in Washington D.C. given weather data. A summary of the competition can be found [HERE](https://www.kaggle.com/c/bike-sharing-demand).
+Kaggle hosts online data science competitions.  This competition asks participants to forecast city bikeshare usage in Washington D.C. given weather data. A summary of the competition can be found [HERE](https://www.kaggle.com/c/bike-sharing-demand) or by clicking the graphic.
 
 Initially I was inspired by a blog post by [Brandon Harris](http://brandonharris.io/kaggle-bike-sharing/).
 The main take aways were to consider time of day and weekday as factor variables.  These were constucted from datetime variable.
