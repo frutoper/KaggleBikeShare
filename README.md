@@ -1,6 +1,8 @@
 # KaggleBikeShare
 Code to Create GBM model. Top 5% Score
 
+Kaggle hosts online data science competitions.  This competition ask participants to forecast city bikeshare usage in Washington D.C. given weather data. A summary of the competition can be found here.
+https://www.kaggle.com/c/bike-sharing-demand
 Initially I was inspired by the follow blog post by Brandon Harris.
 http://brandonharris.io/kaggle-bike-sharing/
 The main take aways were to consider time of day and weekday as factor variables.  These were constucted from datetime variable.
