@@ -1,5 +1,5 @@
 # KaggleBikeShare
-Code to Create GBM model. Top 5% Score
+Code to Create GBM model. Top 5% Score.
 
 Kaggle hosts online data science competitions.  This competition ask participants to forecast city bikeshare usage in Washington D.C. given weather data. A summary of the competition can be found [HERE](https://www.kaggle.com/c/bike-sharing-demand).
 
